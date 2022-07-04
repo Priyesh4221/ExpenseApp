@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>485950381337-po26hnae06pa7e3p440c9d88hnpqd266.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.485950381337-po26hnae06pa7e3p440c9d88hnpqd266</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBw6xipqlI2ReNOOJLeJ2o53s6NclwSLjg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>485950381337</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.roofdevelopment</string>
+	<key>PROJECT_ID</key>
+	<string>elearning-d2aad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>elearning-d2aad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:485950381337:ios:8fceada46637cd82</string>
+	<key>DATABASE_URL</key>
+	<string>https://elearning-d2aad.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87865773597-65i77l0jbbe6mcih9hi1ldjon5e8chu7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87865773597-65i77l0jbbe6mcih9hi1ldjon5e8chu7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5t_fdWVW4vkEGxdyDKT_0JxTNLliwsHA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87865773597</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.roofdevelopment</string>
+	<key>PROJECT_ID</key>
+	<string>expenseapp-d88e7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>expenseapp-d88e7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87865773597:ios:8fceada46637cd82</string>
+	<key>DATABASE_URL</key>
+	<string>https://expenseapp-d88e7.firebaseio.com</string>
+</dict>
+</plist>
